@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account Loging", "Account Loging\Account Loging.csproj", "{BEB4AB21-D564-4F3D-8019-180F4CE84DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB4AB21-D564-4F3D-8019-180F4CE84DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB4AB21-D564-4F3D-8019-180F4CE84DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB4AB21-D564-4F3D-8019-180F4CE84DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB4AB21-D564-4F3D-8019-180F4CE84DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661DB264-CB90-4808-AB97-C84DB64AA438}
+	EndGlobalSection
+EndGlobal
